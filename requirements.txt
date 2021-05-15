@@ -11,7 +11,7 @@ blinker==1.4
 cachetools==4.2.2
 certifi==2019.11.28
 chardet==3.0.4
-chrome-gnome-shell==0.0.0
+# chrome-gnome-shell==0.0.0
 Click==7.0
 colorama==0.4.3
 command-not-found==0.3
