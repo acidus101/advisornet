@@ -1,3 +1,6 @@
+# Deployed API
+    - https://advisornet.herokuapp.com/
+    
 # list of apis according to given structure
     i) admin
         1)AdvisorSetAPI
