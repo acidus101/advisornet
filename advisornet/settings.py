@@ -132,3 +132,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 AUTH_USER_MODEL = 'network.user'
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOW_CREDETIALS = True
+
+# Configure Django App for Heroku.
+import django_heroku
+django_heroku.settings(locals())
