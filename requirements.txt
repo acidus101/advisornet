@@ -21,7 +21,7 @@ dbus-python==1.2.16
 # defer==1.0.6
 distlib==0.3.1
 distro==1.4.0
-distro-info===0.23ubuntu1
+# distro-info===0.23ubuntu1
 Django==3.2.2
 django-cors-headers==3.7.0
 django-rest-knox==4.1.0
