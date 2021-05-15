@@ -75,6 +75,7 @@ pbr==5.6.0
 pexpect==4.6.0
 Pillow==7.0.0
 protobuf==3.15.8
+psycopg2 == 2.8.6
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycairo==1.16.2
