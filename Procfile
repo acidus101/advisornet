@@ -1,4 +1,4 @@
-release: pyhton3 manage.py makemigrations --no-input
-release: python3 manage.py migrate --no-input
+release: pyhton3 manage.py makemigrations
+release: python3 manage.py migrate 
 
 web: gunicorn advisornet.wsgi
