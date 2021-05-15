@@ -82,7 +82,7 @@ pycodestyle==2.7.0
 pycups==1.9.73
 pygame==2.0.1
 Pygments==2.3.1
-PyGObject==3.36.0
+PyGObject==3.40.1
 PyJWT==1.7.1
 pylint==2.6.0
 pymacaroons==0.13.0
